@@ -14,7 +14,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dar
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Mr. Crepsley", "You're an idiot.", "Vampire", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Steve Leonard", "If I can't have it nobody can!", "Human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gavner Purl", "Time will tell.", "Vampaneze", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Death", "", "", , );
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Binky", "", "", , );
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "", , );
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "", , );
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Death", "DEATH COMES TO EVERYONE, LARGE AND SMALL.", "Cosmic Inevitability", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Binky", "NEIGH", "Horse", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Carrot", "I'm just tall for a dwarf.", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Detritus", "Big strength make big hole.", "Troll", 2, 2);
