@@ -18,4 +18,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dea
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Binky", "NEIGH", "Horse", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Carrot", "I'm just tall for a dwarf.", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Detritus", "Time to bring out The Piecemaker.", "Troll", 2, 2);
-INSERT INTO characters_books
+INSERT INTO character_books ()
