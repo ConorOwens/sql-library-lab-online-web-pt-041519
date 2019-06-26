@@ -12,7 +12,7 @@ INSERT INTO books (title, year, series_id) VALUES ("Thief of Time", 1994, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Guards! Guards!", 1994, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Darren", "", "", , );
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Mr. Crepsley", "", "", , );
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "", , );
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Steve Leonard", "", "", , );
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "", , );
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "", , );
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "", , );
