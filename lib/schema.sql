@@ -16,14 +16,14 @@ name TEXT
 );
 
 CREATE TABLE book (
-id PRIMARY KEY INTEGER PRIMARY KEY,
+id INTEGER PRIMARY KEY,
 title TEXT,
 year INTEGER,
 series INTEGER
 );
 
 CREATE TABLE character (
-id PRIMARY KEY INTEGER,
+id INTEGER PRIMARY KEY,
 name TEXT,
 motto TEXT,
 species TEXT,
